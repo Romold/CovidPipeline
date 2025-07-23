@@ -1,0 +1,5 @@
+2025-07-21 07:45:10,504 - Pipeline started.
+2025-07-21 07:45:11,500 - Extracted data to data/raw_covid_2025-07-21.csv
+2025-07-21 07:45:11,508 - Transformed data to data/clean_covid_2025-07-21.csv
+2025-07-21 07:45:11,533 - Data loaded into database.
+2025-07-21 07:45:11,533 - Pipeline completed successfully.
